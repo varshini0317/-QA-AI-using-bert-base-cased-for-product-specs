@@ -1,0 +1,300 @@
+[
+  {
+    "context": "iPhone 13 Pro Max is the latest flagship model from Apple. Its display size of 6.7 inches.",
+    "qas": [
+      {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "What is the latest flagship model from Apple?",
+        "answers": [
+          {
+            "text": "iPhone 13 Pro Max",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "What is the display size of iPhone 13 Pro Max?",
+        "answers": [
+          {
+            "text": "6.7 inches",
+            "answer_start": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Samsung Galaxy S21 Ultra boasts high-end features and performance. The porcessor is powered by Snapdragon 888 or Exynos 2100.",
+    "qas": [
+      {
+        "id": "00003",
+        "is_impossible": false,
+        "question": "Which smartphone boasts high-end features and performance?",
+        "answers": [
+          {
+            "text": "Samsung Galaxy S21 Ultra",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00004",
+        "is_impossible": false,
+        "question": "Which processor powers the Samsung Galaxy S21 Ultra?",
+        "answers": [
+          {
+            "text": "Snapdragon 888 or Exynos 2100",
+            "answer_start": 95
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Google Pixel 6 Pro is Google's flagship smartphone with advanced camera capabilities. It has a storage capacity of 128GB and 256GB.",
+    "qas": [
+      {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "What is the flagship smartphone from Google with advanced camera capabilities?",
+        "answers": [
+          {
+            "text": "Google Pixel 6 Pro",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00006",
+        "is_impossible": false,
+        "question": "What is the storage capacity of Google Pixel 6 Pro?",
+        "answers": [
+          {
+            "text": "128GB and 256GB",
+            "answer_start": 115
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "OnePlus 9 Pro is a high-performance smartphone with a sleek design. It rear ",
+    "qas": [
+      {
+        "id": "00007",
+        "is_impossible": false,
+        "question": "What is the high-performance smartphone with a sleek design?",
+        "answers": [
+          {
+            "text": "OnePlus 9 Pro",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Samsung Galaxy S21 Ultra is a flagship smartphone known for its exceptional performance and elegant design.",
+    "qas": [
+    {
+    "id": "00009",
+    "is_impossible": false,
+    "question": "Which smartphone is renowned for its impressive performance and sleek design?",
+    "answers": [
+    {
+    "text": "Samsung Galaxy S21 Ultra",
+    "answer_start": 4
+    }
+    ]
+   }
+  ]
+  },
+  {
+  "context": "The Samsung Galaxy Note 20 Ultra features a large Dynamic AMOLED display and a powerful Exynos 990 processor.",
+  "qas": [
+    {
+      "id": "00090",
+      "is_impossible": false,
+      "question": "What type of display does the Samsung Galaxy Note 20 Ultra have?",
+      "answers": [
+        {
+          "text": "Dynamic AMOLED",
+          "answer_start": 50
+        }
+      ]
+    },
+    {
+
+    }
+  ]
+},
+{
+  "context": "The iPhone 12 Pro is equipped with Apple's A14 Bionic chip which powers the system.",
+  "qas": [
+    {
+      "id": "00010",
+      "is_impossible": false,
+      "question": "What chip powers the iPhone 12 Pro?",
+      "answers": [
+        {
+          "text": "A14 Bionic",
+          "answer_start": 43
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The Google Pixel 5a offers a large OLED display and a powerful Snapdragon 765G processor.",
+  "qas": [
+    {
+      "id": "00011",
+      "is_impossible": false,
+      "question": "What processor does the Google Pixel 5a have?",
+      "answers": [
+        {
+          "text": "Snapdragon 765G",
+          "answer_start": 63
+        }
+      ]
+    },
+    {
+      "id": "00111",
+      "is_impossible": false,
+      "question": "What display does the Google Pixel 5a have?",
+      "answers": [
+        {
+          "text": "OLED display",
+          "answer_start": 35
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The OnePlus 9 Pro features a 6.7-inch Fluid AMOLED display with a resolution of 1440 x 3216 pixels. It is powered by the Qualcomm Snapdragon 888 processor and comes with up to 12GB of RAM. The phone offers a quad-camera setup with a 48MP primary sensor, a 50MP ultra-wide-angle lens, an 8MP telephoto lens, and a 2MP monochrome sensor.",
+  "qas": [
+    {
+      "id": "00012",
+      "is_impossible": false,
+      "question": "What is the resolution of the OnePlus 9 Pro's display?",
+      "answers": [
+        {
+          "text": "1440 x 3216 pixels",
+          "answer_start": 80
+        }
+      ]
+    },
+    {
+      "id": "00110",
+      "is_impossible": false,
+      "question": "What is the processor of the OnePlus 9?",
+      "answers": [
+        {
+          "text": "Qualcomm Snapdragon 888 processor",
+          "answer_start": 121
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The Samsung Galaxy S21 Ultra features a massive 6.8-inch Dynamic AMOLED display with a resolution of 1440 x 3200 pixels. It is powered by either the Qualcomm Snapdragon 888 or the Exynos 2100 processor, depending on the region. The phone offers a quad-camera system with a 108MP primary sensor, two 10MP telephoto lenses, and a 12MP ultra-wide-angle lens.",
+  "qas": [
+    {
+      "id": "00013",
+      "is_impossible": false,
+      "question": "What is the primary sensor resolution of the Samsung Galaxy S21 Ultra's camera?",
+      "answers": [
+        {
+          "text": "108MP",
+          "answer_start": 273
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The iPhone 13 Pro Max features a 6.7-inch Super Retina XDR display with a resolution of 2778 x 1284 pixels. It is powered by Apple's A15 Bionic chip and comes with up to 6GB of RAM. The phone offers a triple-camera system with a 12MP primary sensor, a 12MP ultra-wide-angle lens, and a 12MP telephoto lens.",
+  "qas": [
+    {
+      "id": "00014",
+      "is_impossible": false,
+      "question": "What is the resolution of the iPhone 13 Pro Max's display?",
+      "answers": [
+        {
+          "text": "2778 x 1284 pixels",
+          "answer_start": 88
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The Google Pixel 6 Pro features a 6.7-inch Fluid AMOLED display with a resolution of 1440 x 3120 pixels. It is powered by the Google Tensor SoC and comes with up to 12GB of RAM. The phone offers a triple-camera system with a 50MP primary sensor, a 12MP ultra-wide-angle lens, and a 48MP telephoto lens.",
+  "qas": [
+    {
+      "id": "00015",
+      "is_impossible": false,
+      "question": "What is the resolution of the Google Pixel 6 Pro's display?",
+      "answers": [
+        {
+          "text": "1440 x 3120 pixels",
+          "answer_start": 85
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The Xiaomi Mi 11 Ultra features a 6.81-inch AMOLED display with a resolution of 3200 x 1440 pixels. It is powered by the Qualcomm Snapdragon 888 processor and comes with up to 12GB of RAM. The phone offers a triple-camera system with a 50MP primary sensor, a 48MP ultra-wide-angle lens, and a 48MP periscope telephoto lens.",
+  "qas": [
+    {
+      "id": "00016",
+      "is_impossible": false,
+      "question": "What is the resolution of the Xiaomi Mi 11 Ultra's display?",
+      "answers": [
+        {
+          "text": "3200 x 1440 pixels",
+          "answer_start": 80
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The Samsung Galaxy Note 20 Ultra features a 6.9-inch Dynamic AMOLED display with a resolution of 1440 x 3088 pixels. It is powered by the Exynos 990 or Qualcomm Snapdragon 865+ processor, depending on the region. The phone offers a triple-camera setup with a 108MP primary sensor, a 12MP periscope telephoto lens, and a 12MP ultra-wide-angle lens.",
+  "qas": [
+    {
+      "id": "00017",
+      "is_impossible": false,
+      "question": "What is the primary sensor resolution of the Samsung Galaxy Note 20 Ultra's camera?",
+      "answers": [
+        {
+          "text": "108MP",
+          "answer_start": 259
+        }
+      ]
+    }
+  ]
+},
+{
+  "context": "The iPhone 12 Pro Max features a 6.7-inch Super Retina XDR display with a resolution of 2778 x 1284 pixels. It is powered by Apple's A14 Bionic chip and comes with up to 6GB of RAM. The phone offers a triple-camera system with a 12MP primary sensor, a 12MP ultra-wide-angle lens, and a 12MP telephoto lens.",
+  "qas": [
+    {
+      "id": "00018",
+      "is_impossible": false,
+      "question": "What is the resolution of the iPhone 12 Pro Max's display?",
+      "answers": [
+        {
+          "text": "2778 x 1284 pixels",
+          "answer_start": 88
+        }
+      ]
+    }
+  ]
+}
+]

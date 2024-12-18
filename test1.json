@@ -1,0 +1,34 @@
+[
+    {
+    "context": "The Google Pixel 5 features a 6.0-inch OLED display with a resolution of 2340 x 1080 pixels. It is powered by the Qualcomm Snapdragon 765G processor and comes with 8GB of RAM. The phone offers a dual-camera system with a 12.2MP primary sensor and a 16MP ultra-wide-angle lens.",
+    "qas": [
+      {
+        "id": "0001",
+        "is_impossible": false,
+        "question": "What is the resolution of the Google Pixel 5's display?",
+        "answers": [
+          {
+            "text": "2340 x 1080 pixels",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Xiaomi Redmi Note 10 Pro features a 6.67-inch Super AMOLED display with a resolution of 1080 x 2400 pixels. It is powered by the Qualcomm Snapdragon 732G processor and comes with up to 8GB of RAM. The phone offers a quad-camera system with a 64MP primary sensor, an 8MP ultra-wide-angle lens, a 5MP macro lens, and a 2MP depth sensor.",
+    "qas": [
+      {
+        "id": "0002",
+        "is_impossible": false,
+        "question": "What is the resolution of the Xiaomi Redmi Note 10 Pro's display?",
+        "answers": [
+          {
+            "text": "1080 x 2400 pixels",
+            "answer_start": 92
+          }
+        ]
+      }
+    ]
+  }
+]
